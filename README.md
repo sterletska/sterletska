@@ -1,4 +1,13 @@
-## Hi there 👋
+# About Me
+> "The greatest journeys are not measured by the miles traveled but by the obstacles overcome. Keep walking, even when the path seems steep, for it is in the climbing that true strength is found."
+## My Interests
+* UX Design
+* Painting
+* Gardening
+  
+## Websites I Recommend
+- [Google](https://www.google.com) - The is nothing better than Google for searching information.  
+- [YouTube](https://www.youtube.com) - YouTube is a great source of tutorials and different sorts of information.
 
 
 1.	Your name and email address: Svitlana Terletska; email: sterletska@my.waketech.edu
