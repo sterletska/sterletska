@@ -11,7 +11,7 @@
 2. [YouTube](https://www.youtube.com) - YouTube is a great source of tutorials and different sorts of information.
 3. [Atlassian Design System](https://atlassian.design) - This is a great library of UI components with a detailed explanation of component usage, examples, and accessibility reccomendations.
 
-
+## Lesson 5 Assignment
 1.	Your name and email address: Svitlana Terletska; email: sterletska@my.waketech.edu
 2.	A brief description of your Github account: account name: sterletska, link: https://github.com/sterletska
 3.	A brief description of the repository you created: the repository a name I created matches my Github username which is sterletska
